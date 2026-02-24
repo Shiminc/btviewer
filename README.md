@@ -1,5 +1,6 @@
-This is the contribution I have done while working on an app in the University of Sheffield. I forked the part I had worked on here. 
-![deploy](https://github.com/sheffieldmltracking/btviewer/actions/workflows/deploy.yml/badge.svg)
+This is a Flask-React app I have done while working on an app in the University of Sheffield. I forked the part I had worked on here. I extracted the requirement and designed the frontend and program the React app, while also used Flask for the backend, mainly with serving and recording the data. 
+
+ 
 
 # Bee tracking viewer
 
